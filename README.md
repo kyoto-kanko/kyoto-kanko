@@ -9,6 +9,7 @@ class AboutMe
     @twitter = "https://twitter.com/kyoto_kanko_jp"
     @favourite_programming_languages = ["Ruby", "Java"]
     @open_sources = [
+      "https://github.com/kyoto-kanko/color-greeting",
       "https://github.com/kyoto-kanko/task-piggy"
     ]
   end
